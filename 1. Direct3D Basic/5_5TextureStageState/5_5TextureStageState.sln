@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_5TextureStageState", "5_5TextureStageState\5_5TextureStageState.vcproj", "{502C520D-9C49-49DB-8C26-E2107792FAC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502C520D-9C49-49DB-8C26-E2107792FAC2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{502C520D-9C49-49DB-8C26-E2107792FAC2}.Debug|Win32.Build.0 = Debug|Win32
+		{502C520D-9C49-49DB-8C26-E2107792FAC2}.Release|Win32.ActiveCfg = Release|Win32
+		{502C520D-9C49-49DB-8C26-E2107792FAC2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
